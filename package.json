@@ -1,0 +1,20 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "Learning Project from Akshay Saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/13RishabhSharma/namaste-react.git)"
+  },
+  "keywords": [
+    "react",
+    "Rishabh",
+    "Project"
+  ],
+  "author": "Rishabh Sharma",
+  "license": "ISC"
+}

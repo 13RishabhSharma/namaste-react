@@ -1,2 +1,3 @@
-# React Learning 
+# React Learning :)
+* npm init
 Author - Rishabh
